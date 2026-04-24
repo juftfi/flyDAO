@@ -10,13 +10,13 @@ export const Footer = () => (
       </div>
       <div className="flex items-center gap-3">
         {[X].map((Icon, i) => (
-          <a key={i} href="https://x.com/flyDAO" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
+          <a key={i} href="https://x.com/0xflyDAO" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
             <Icon className="w-4 h-4 text-muted-foreground" />
           </a>
           
         ))}
         {[Users].map((Icon, i) => (
-          <a key={i} href="https://x.com/flyDAO" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
+          <a key={i} href="https://t.me/Fly_DAO" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
             <Icon className="w-4 h-4 text-muted-foreground" />
           </a>
           
