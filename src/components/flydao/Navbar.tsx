@@ -19,7 +19,7 @@ export const Navbar = () => (
           </a>
         ))}
       </nav>
-      <Button variant="outline" className="gold-border-glow bg-transparent hover:bg-primary/10 text-foreground gap-2">
+      <Button title="DEV MODE ONLY !!! Will available when bonding curve 100%" variant="outline" className="gold-border-glow bg-transparent hover:bg-primary/10 text-foreground gap-2">
         <Wallet className="w-4 h-4 text-primary" />
         Connect Wallet
       </Button>
