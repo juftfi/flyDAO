@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Welcome to your FlyDAO project
 
-TODO: Document your project here

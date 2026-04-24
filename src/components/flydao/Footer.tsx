@@ -22,7 +22,7 @@ export const Footer = () => (
           
         ))}
         {[Github].map((Icon, i) => (
-          <a key={i} href="https://github.com" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
+          <a key={i} href="https://github.com/flyDAO" target="_blank" className="w-10 h-10 rounded-xl glass-card flex items-center justify-center hover:border-primary/40 transition-colors">
             <Icon className="w-4 h-4 text-muted-foreground" />
           </a>
           
