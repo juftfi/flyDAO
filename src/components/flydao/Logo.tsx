@@ -12,7 +12,7 @@ export const Logo = ({ size = 36 }: { size?: number }) => (
     </div>
     <div className="leading-tight">
       <div className="font-display font-bold text-base tracking-tight">FlyDAO</div>
-      <div className="text-[10px] tracking-[0.25em] text-primary/80 font-medium">SIGNAL SWARM</div>
+      <div className="text-[10px] tracking-[0.25em] text-primary/80 font-medium">premium swarm signal</div>
     </div>
   </div>
 );

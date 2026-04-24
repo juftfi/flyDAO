@@ -18,7 +18,7 @@ export const Hero = () => (
           Fly<span className="gold-text">DAO</span>
         </h1>
         <p className="text-lg text-muted-foreground max-w-md leading-relaxed">
-          A futuristic on-chain command layer where staking, borrowing, and governance
+          A futuristic Staking Borrowing Governance where staking, borrowing, and governance
           coordinate through one premium swarm.
         </p>
         
