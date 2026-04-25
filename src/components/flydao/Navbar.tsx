@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 const links = [
   { label: "Dashboard", href: "#dashboard" },
-  { label: "$FLY", href: "https://four.meme", target: "_blank" },
+  { label: "$FLY", href: "https://four.meme/en/token/0x0a5be223ee6a16c4668effd8c93b4529bcddffff"},
   { label: "Staking", href: "#staking" },
   { label: "Borrowing", href: "#borrowing" },
   { label: "Governance", href: "#governance" },
