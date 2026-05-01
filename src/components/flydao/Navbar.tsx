@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 const links = [
   { label: "Dashboard", href: "#dashboard" },
-  { label: "$FLY", href: "https://flap.sh"},
+  { label: "$FLY", href: "https://flap.sh/bnb/0x23c5d4c11fbdbf57b224813f5761e769ee4c7777"},
   { label: "Staking", href: "#staking" },
   { label: "Borrowing", href: "#borrowing" },
   { label: "Governance", href: "#governance" },
