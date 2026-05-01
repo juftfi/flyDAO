@@ -1,7 +1,7 @@
 import { TrendingUp, Wallet } from "lucide-react";
 
 const stats = [
-  { label: "FLY Price", value: "$0.000012", change: "+251.4%", positive: true },
+  { label: "FLY Price", value: "$0.000016", change: "+251.4%", positive: true },
   { label: "Market Cap", value: "$16.80K", change: "+6.7%", positive: true },
   { label: "Circulating Supply", value: "200M", change: "20% unlocked" },
   { label: "DAO Treasury", value: "$23K", change: "+$20K 24h", positive: true },
